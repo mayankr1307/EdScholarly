@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917298455112",
+    "project_id": "edscholarly",
+    "storage_bucket": "edscholarly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917298455112:android:a0276149f7c7772c166e7d",
+        "android_client_info": {
+          "package_name": "android.project.edscholarly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOcHu4x9_G4PS5kpIkYr-yUA6M87I802I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

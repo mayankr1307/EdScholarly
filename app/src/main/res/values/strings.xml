@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EdScholarly</string>
+    <string name="logo_image">logo image</string>
+    <string name="main_logo">main logo</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="user_name">User Name</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="profile">Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="query_time">Query Time</string>
+    <string name="query_date">Query Date</string>
+    <string name="teacher_email">Teacher Email</string>
+    <string name="student_email">Student Email</string>
+    <string name="query_message">Query Message</string>
+</resources>

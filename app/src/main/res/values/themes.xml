@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EdScholarly" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/variant1</item>
+    </style>
+
+    <style name="Theme.EdScholarly" parent="Base.Theme.EdScholarly" />
+</resources>
